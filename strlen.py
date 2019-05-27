@@ -1,0 +1,5 @@
+print("please enter string value")
+a=input()
+b=len(a)
+print("string length is ")
+print(b)
